@@ -1,5 +1,5 @@
 # Login Screen and Table Task by HTML-CSS lesson 1
-## Login screen Screen-shots
+## Login screen Screenshots
 ![Screenshot 2022-05-30 145914](https://user-images.githubusercontent.com/90649844/171018862-b2448460-403c-4d77-bcf3-621afea80eb8.png)
 
 
