@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background-image: url(/assets/img/form-background.jpg);
+  background-image: url(../img/form-background.jpg);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
